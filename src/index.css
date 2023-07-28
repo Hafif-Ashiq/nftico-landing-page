@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.padding-nav{
+    @apply px-[120px] py-[15px]
+}
+
+.padding-section{
+    @apply  px-[120px] pt-[140px]
+}
