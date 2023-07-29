@@ -1,5 +1,5 @@
 import React from 'react'
-import { Footer, Hero, NavBar, NoteableDrops, PopularNFTs, Resources, Sponsers, TopCollections, Trending, WalletConnect,Copyright } from './sections'
+import { Footer, Hero, NavBar, NoteableDrops, PopularNFTs, Resources, Sponsers, TopCollections, Trending, WalletConnect, Copyrights } from './sections'
 const App = () => {
   return (
     <div className='bg-background-color text-white font-outfit'>
@@ -13,7 +13,7 @@ const App = () => {
       <WalletConnect />
       <Sponsers />
       <Footer />
-      <Copyright/>
+      <Copyrights/>
 
     </div>
   )

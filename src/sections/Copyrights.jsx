@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Copyright = () => {
+const Copyrights = () => {
   return (
     <div className="padding-nav mt-[140px] flex justify-between bg-secondary items-center sm:text-[20px] text-[16px]">
         <div className='flex justify-start gap-[50px] items-center'>
@@ -14,4 +14,4 @@ const Copyright = () => {
   )
 }
 
-export default Copyright
+export default Copyrights

@@ -9,10 +9,10 @@ import Sponsers from "./Sponsers";
 import TopCollections from "./TopCollections";
 import Trending from "./Trending";
 import WalletConnect from "./WalletConnect";
-import Copyright from "./copyright";
+import Copyrights from "./Copyrights";
 
 export{
-    Copyright,
+    Copyrights,
     NavBar,
     Hero,
     NoteableDrops,
